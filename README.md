@@ -1,5 +1,5 @@
 # Simple torrent-like application
-This is Computer Network assignment.
+Computer Network assignment semester 241 - Build a simple torrent-like application.
 ## Features:
 Tracker:
 - Store info_hash of files.
@@ -11,7 +11,7 @@ Peer:
 - Create torrent file.
 - Upload/download pieces of file.
 
-## Expand Algorithm:
+## Advance Algorithm:
 - Bandwidth limit.
 - Tit for tat.
 
